@@ -1,5 +1,7 @@
 <p align="center"><a href="image" target="_blank"><img width="400" src="https://github.com/Eduardojvr/Bot_inteligencia_artificial/blob/master/imagens/bot.png"></a></p>
 <p align="center">
+	
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7005c549f5814f4797cdbfcf83bfbd86)](https://www.codacy.com/app/Eduardojvr/Bot_inteligencia_artificial?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Eduardojvr/Bot_inteligencia_artificial&amp;utm_campaign=Badge_Grade). [![Build Status](https://travis-ci.org/Eduardojvr/Bot_inteligencia_artificial.svg?branch=master)](https://travis-ci.org/Eduardojvr/Bot_inteligencia_artificial)
   
  ## ℹ️ Sobre
  
