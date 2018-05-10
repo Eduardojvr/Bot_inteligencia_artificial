@@ -1,4 +1,4 @@
-<p align="center"><a href="image" target="_blank"><img width="600" src="https://github.com/Eduardojvr/Bot_inteligencia_artificial/blob/master/imagens/bot.png"></a></p>
+<p align="center"><a href="image" target="_blank"><img width="400" src="https://github.com/Eduardojvr/Bot_inteligencia_artificial/blob/master/imagens/bot.png"></a></p>
 <p align="center">
   
  ## ℹ️ Sobre
