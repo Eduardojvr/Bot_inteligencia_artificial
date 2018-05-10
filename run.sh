@@ -1,4 +1,4 @@
 chmod +x dependencias.sh
-./dependencia.sh
+./dependencias.sh
 
 python bot.py
