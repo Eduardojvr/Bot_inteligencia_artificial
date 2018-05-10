@@ -21,4 +21,7 @@ bot.train(emocoes)
 while True:
     quest = input('Você: ')
     response = bot.get_response(quest)
-    print('Bot: ', response)
+    if float(response.confidence > 0.5):
+        print('Bot: ', response)
+    else:
+        print('Não entendi!')
