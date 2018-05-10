@@ -1,4 +1,5 @@
 sudo: required
 
-script:
-  - run.sh
+language: python
+python:
+  - "3.6.4"
