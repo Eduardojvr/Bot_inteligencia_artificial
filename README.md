@@ -6,6 +6,8 @@
  ## ℹ️ Sobre
  
  __Astolfo__ é um bot inteligente que aprende a medida que interage com seres humanos. Sua personalidade é moldada por meio dessa interação.
+ 
+ Existem duas versões, uma 
 
 ## ℹ️ Iniciando o Astolfo
 Para instalar as dependências necessárias para usar a aplicação, navegue por meio do terminal até a pasta do projeto e digite:
@@ -14,3 +16,10 @@ Para instalar as dependências necessárias para usar a aplicação, navegue por
 	$ ./run.sh
 ```
 Aguarde o fim da instalação, ao fim do processo o bot será iniciado automaticamente.
+
+## Observações
+
+Se você utiliza ambiente linux, instale as dependencias apresentadas abaixo:
+```Terminal
+sudo apt install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
+```
