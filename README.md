@@ -19,7 +19,16 @@ Aguarde o fim da instalação, ao fim do processo o bot será iniciado automatic
 
 ## ℹ️  Observações
 
-Se você utiliza ambiente linux, instale as dependencias apresentadas abaixo:
+- Se você utiliza ambiente linux, instale as dependencias apresentadas abaixo:
 ```Terminal
-sudo apt install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
+	$ sudo apt install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0 ffmpeg libav-tools
+```
+
+- Se você utiliza ambiente Mac Os:
+```Terminal
+	$ brew install portaudio
+```
+- Depois rode:
+```Terminal
+	$ pip install pyaudio
 ```
