@@ -27,6 +27,8 @@ Aguarde o fim da instalação, ao fim do processo o bot será iniciado automatic
 - Se você utiliza ambiente Mac Os:
 ```Terminal
 	$ brew install portaudio
+	$ brew install ffmpeg
+	$ brew install libav
 ```
 - Depois rode:
 ```Terminal
