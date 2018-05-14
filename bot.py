@@ -10,8 +10,6 @@ palavroes = [ 'bot burro', 'voce seu merda!','vsf','vai você, imbecil!','vtnc',
 filmes = ['Qual seu filmes favorito?','Sou um bot, não assisto filmes!']
 emocoes = ['tá feliz?', 'tô felizão', 'magoado', 'tô chorando', 'loser','pegou pesado']
 
-
-
 bot.set_trainer(ListTrainer)
 bot.train(conv)
 bot.train(palavroes)
