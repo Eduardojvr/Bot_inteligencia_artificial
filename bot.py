@@ -1,5 +1,4 @@
 # _*_ coding: utf-8 _*_
-
 from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
 
